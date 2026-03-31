@@ -43,7 +43,7 @@ This project showcases an interactive **Power BI dashboard** designed to analyze
 
 ## 📸 Dashboard Preview
 
-Image : <img width="622" height="344" alt="2026-03-31" src="https://github.com/user-attachments/assets/71653466-9188-42c2-ba5a-42306604333f" />
+<img width="622" height="344" alt="2026-03-31" src="https://github.com/user-attachments/assets/71653466-9188-42c2-ba5a-42306604333f" />
 
 
 ---
